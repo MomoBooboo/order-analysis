@@ -13,3 +13,15 @@ This Python program analyzes customer orders from an online store based on the p
 git clone https://github.com/MomoBooboo/order-analysis.git
 cd order-analysis
 
+# Navigate to your project directory
+cd path/to/your/project
+
+# Build Docker containers
+docker-compose build
+
+# Run the main task
+docker-compose run task
+
+# Run the tests
+docker-compose run test
+
